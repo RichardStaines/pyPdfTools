@@ -3,7 +3,7 @@ Tools for Processing pdf files
 
 This tool processes a folder of pdf files.
 
-python pdfExtractBlock -t <target-folder> -s "Risks and challenges" -e "FAQ" <folder-or-filename>
+python pdfExtractBlock -t targetFolder -s "Risks and challenges" -e "FAQ" folderORfilename
 
 e.g.
 python pdfExtractBlock -t output -s "Risks and challenges" -e "FAQ" data
